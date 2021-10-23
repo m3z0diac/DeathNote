@@ -23,8 +23,8 @@ YW55IHNvdXJjZSBjb2RlIGNvdWxkIGhlbHAgeW91
 ```
 ## Web app setup
 
-#### For a better experience you need to setup a web server to run the web application. The simple way is to run it using the php web server locally
+#### For a better experience you need to setup a web server to run the web application. The simple way is to run it using the php web server locally in the app folder.
 ```
 php -S localhost:8000
 ```
-#### in the app folder. or put the web application folder on your appache server.
+#### or put the web application folder on your appache server.
