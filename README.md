@@ -16,3 +16,8 @@
 #### steganography 
 #### hash cracking
 #### usal ctfs methodology
+
+## Hints
+```
+YW55IHNvdXJjZSBjb2RlIGNvdWxkIGhlbHAgeW91
+```
