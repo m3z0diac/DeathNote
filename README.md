@@ -28,3 +28,7 @@ YW55IHNvdXJjZSBjb2RlIGNvdWxkIGhlbHAgeW91
 php -S localhost:8000
 ```
 #### or put the web application folder on your appache server.
+
+
+## LICENCE
+[MIT](https://github.com/hamza07-w/raymond/blob/main/LICENSE)
